@@ -2,6 +2,11 @@
 
 > 本项目只保留xutils3中的db模块
 
+### 引入
+
+Gradle
+> compile 'im.unicolas:xutils3-db:3.5.1'
+
 ### 初始化
 ```java
 // 在application的onCreate中初始化
