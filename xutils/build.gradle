@@ -25,8 +25,8 @@ android {
 publish {
     userOrg = 'unicolas'//bintray.com用户名
     groupId = 'im.unicolas'//jcenter上的路径
-    artifactId = 'xutils-db'//项目名称
-    publishVersion = '1.1'//版本号
+    artifactId = 'XUtils-db'//项目名称
+    publishVersion = '3.5.0'//版本号
     desc = 'db in xutils3'//描述，不重要
-    website = 'https://github.com/NicolasKun/ThrollBadgeView'//网站，不重要
+    website = 'https://github.com/NicolasKun/XUtils3-db'//网站，不重要
 }
